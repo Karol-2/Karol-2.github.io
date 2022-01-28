@@ -39,6 +39,3 @@ if a <= len(tab):
 
  Turpis in eu mi bibendum. Tempor id eu nisl nunc mi. Neque aliquam vestibulum morbi blandit cursus risus. Placerat `print` albo `if a = b:`vestibulum lectus mauris ultrices eros in. Nunc congue nisi vitae suscipit tellus mauris a. 
 
-
-obrazek:
-![Wesoły piesek](https://github.com/Karol-2/-stepik-13.1/blob/main/d6ea83ba423cd65140d426fba0c30740.jpg)
