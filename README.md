@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Witaj na mojej stronie
 
-You can use the [editor on GitHub](https://github.com/Karol-2/Karol-2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Zrobiłem ją używając szablonu :) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Powiększony nagłówek
 
-### Markdown
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```markdown
-Syntax highlighted code block
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique nulla aliquet enim tortor at auctor. Id semper risus in hendrerit.
 
-# Header 1
-## Header 2
-### Header 3
+ Turpis in eu mi bibendum. Tempor id eu nisl nunc mi. Neque aliquam vestibulum morbi blandit cursus risus. Placerat vestibulum lectus mauris ultrices eros in. Nunc congue nisi vitae suscipit tellus mauris a. 
 
-- Bulleted
-- List
+**porta nibh**  *venenatis cras* ~~sed felis eget velit aliquet sagittis~~
 
-1. Numbered
-2. List
+>sagittis orci a scelerisque purus semper eget duis at tellus 
 
-**Bold** and _Italic_ and `Code` text
+1. jeden
+2. dwa
+   1. 2.1
+   2. 2.2
+3. trzy
+4. cztery
 
-[Link](url) and ![Image](src)
+- a
+- b
+  - b.1
+  - b.2
+  - b.3
+- c
+- d
+
+```python
+print ('Hello World')
+if a <= len(tab):
+    return true
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ Turpis in eu mi bibendum. Tempor id eu nisl nunc mi. Neque aliquam vestibulum morbi blandit cursus risus. Placerat `print` albo `if a = b:`vestibulum lectus mauris ultrices eros in. Nunc congue nisi vitae suscipit tellus mauris a. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Karol-2/Karol-2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+obrazek:
+![Wesoły piesek](https://github.com/Karol-2/-stepik-13.1/blob/main/d6ea83ba423cd65140d426fba0c30740.jpg)
